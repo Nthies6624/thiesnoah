@@ -1,0 +1,11 @@
+.elementor-549 .elementor-element.elementor-element-fa6a7d4:not(.elementor-motion-effects-element-type-background), .elementor-549 .elementor-element.elementor-element-fa6a7d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #333;}
+.elementor-549 .elementor-element.elementor-element-fa6a7d4 > .elementor-background-overlay {background-image: url("http://3.83.212.252/wp-content/uploads/2020/02/world-map-dark.png");background-size: cover;opacity: 1;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-549 .elementor-element.elementor-element-fa6a7d4 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 120px 0px 70px 0px;}
+.elementor-549 .elementor-element.elementor-element-fa6a7d4 > .elementor-shape-top svg {height: 50px;}
+.elementor-549 .elementor-element.elementor-element-621db987 > .elementor-element-populated {padding: 50px 50px 50px 50px;}
+.elementor-549 .elementor-element.elementor-element-54655a4a.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-549 .elementor-element.elementor-element-54655a4a > .elementor-widget-container {margin: -20px 0px 0px 0px;}
+.elementor-549 .elementor-element.elementor-element-8c21ef7 .hfe-copyright-wrapper a, .elementor-549 .elementor-element.elementor-element-8c21ef7 .hfe-copyright-wrapper {color: #fff;}
+@media (max-width:1024px) {.elementor-549 .elementor-element.elementor-element-54655a4a > .elementor-widget-container {margin: -20px 0px 0px 0px;}}
+@media (max-width:767px) {.elementor-549 .elementor-element.elementor-element-fa6a7d4 {padding: 100px 20px 50px 20px;}
+	.elementor-549 .elementor-element.elementor-element-54655a4a {text-align: center;}}
